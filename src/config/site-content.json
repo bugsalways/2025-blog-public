@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "BugsAlways",
-		"description": "从0开始的赛博游民之路~",
+		"title": "YYsuni",
+		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "Cyber Nomad 9527"
 	},
 	"theme": {
@@ -44,14 +44,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/bugsalways",
+			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
 		},
 		{
+			"id": "juejin",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2427311675422382",
+			"label": "稀土掘金",
+			"order": 2
+		},
+		{
 			"id": "email",
 			"type": "email",
-			"value": "yan593873591@163.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
 		}
